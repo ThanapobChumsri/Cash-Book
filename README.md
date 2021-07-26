@@ -1,4 +1,10 @@
-# vuejs_hw
+# Cash Book
+
+##
+```
+Name : Thanapob Chumsri
+ID : 6110451321
+```
 
 ## Project setup
 ```
