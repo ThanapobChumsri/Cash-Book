@@ -28,16 +28,16 @@
         "date": "2020-5-23",
         "name": {
           "detail": "เลี้ยงวันเกิดพี่",
-          "income": 10,
-          "expense": 0
+          "income": 0,
+          "expense": 23000
         }
       },
       {
         "date": "2020-6-15",
         "name": {
-          "detail": "ซื้อนหังสือ คุ ณ ภ า พ",
-          "income": 1230,
-          "expense": 0
+          "detail": "ซื้อหนังสือ คุ ณ ภ า พ",
+          "income": 0,
+          "expense": 909174902
         }
       }
     ]
